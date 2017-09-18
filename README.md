@@ -30,7 +30,7 @@ Result file is available inside /submission/ directory
 
 ## Future Scope
 
-Apply similar techniques to other object detection application/competition like Right Whale Recognition, [Galaxy Zoo - The Galaxy Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/) etc.
+Apply similar techniques to other object detection application/competition like [Right Whale Recognition](https://www.kaggle.com/c/noaa-right-whale-recognition), [Galaxy Zoo - The Galaxy Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/) etc.
 
 ## Reference
 
